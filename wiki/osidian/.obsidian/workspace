@@ -1,0 +1,77 @@
+{
+  "main": {
+    "id": "286e814987e7b6a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b652c2bfe9deebfd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7505b0b5f2755852",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a2d4237658f2e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7601979a07b35500",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d830d5ba86c1838b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7a957e76787067f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc5e4084bfd68a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "766f92e88c6c949a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "a.md",
+    "b.md",
+    "a/wikia.md",
+    "ccc.md",
+    "c.md"
+  ]
+}
